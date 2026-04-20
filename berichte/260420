@@ -1,0 +1,12 @@
+Name: Lisa Hintermaier      
+Klasse: 4AHITS       
+Fach: ITSE4-Übungen        
+Datum: 20.04.2026       
+
+# Reverse Shells Übungen     
+
+## Aufgabenstellung:     
+### Übung (netcat chat)          
+Verwende netcat um einen bidirektionalen Chat zwischen 2 unterschiedlichen Rechnern aufzubauen.         
+
+### Lösung: 
